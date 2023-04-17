@@ -1,5 +1,9 @@
 {
   "dependencies": {
+
     "json-server": "^0.17.3"
+
+    "ngx-toastr": "^16.1.0"
+
   }
 }
